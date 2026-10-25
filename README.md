@@ -22,6 +22,8 @@ Tested on the Dell RTX 2080 Ti 22GB (`10de:1e07`) with NVIDIA driver 575.51.03.
 Both the proprietary driver and the open driver work. Other cards or other driver
 is not tested.
 
+For notes on dual RTX 2080 Ti 22GB (`10de:1e04`) verification, benchmarks, and procedures, see [docs/rig-notes/](docs/rig-notes/README.md).
+
 ## Performance
 
 TFLOPS of cuBALS FP16 matrix multiply with FP32 Accumulate on RTX 2080 Ti @250W
